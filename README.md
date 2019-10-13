@@ -2,11 +2,11 @@
 Présentation de l'école OClock
 
 # Techno utilisées :
-HTML5
+- HTML5
 - CSS3
 
 # Détails :
-RWD
+- RWD
 - Media Queries
 - Flexbox
 - PopIn : popUp en CSS
@@ -14,4 +14,4 @@ RWD
 - Liens externes
 
 # Difficulté majeure :
-height et iframe en RWD
+*height* et *iframe* en RWD
